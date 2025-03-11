@@ -1,4 +1,6 @@
 # Ex-01-Linux-Commands
+## NAME :MOHAMMED ASHFAQ NADEEM A
+## REG NO:212224230166
 ## Aim:
 
 To study the execution of various Linux operating system commands.
